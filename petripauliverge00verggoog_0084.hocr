@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./petripauliverge00verggoog_0084.png"; bbox 0 0 725 1104; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 90 639 584 743">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 90 639 584 743">
+     <span class='ocr_line' id='line_1_1' title="bbox 90 639 584 695; baseline 0.004 -17"><span class='ocrx_word' id='word_1_1' title='bbox 90 654 228 681; x_wconf 74' lang='lat' dir='ltr'>PATAvn</span> <span class='ocrx_word' id='word_1_2' title='bbox 245 673 253 686; x_wconf 89' lang='lat'><strong>‚</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 270 655 461 681; x_wconf 80' lang='lat' dir='ltr'>MDCCvan.</span> <span class='ocrx_word' id='word_1_4' title='bbox 505 639 508 642; x_wconf 46' lang='grc'><strong>“</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 582 692 584 695; x_wconf 15' lang='lat' dir='ltr'><em>r</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 106 699 545 743; baseline 0 -15"><span class='ocrx_word' id='word_1_6' title='bbox 106 702 139 728; x_wconf 87' lang='lat' dir='ltr'>Ex</span> <span class='ocrx_word' id='word_1_7' title='bbox 157 701 323 738; x_wconf 80' lang='lat' dir='ltr'>Typographia</span> <span class='ocrx_word' id='word_1_8' title='bbox 336 702 465 738; x_wconf 79' lang='lat' dir='ltr'>Vulpiana.</span> <span class='ocrx_word' id='word_1_9' title='bbox 493 741 495 743; x_wconf 17' lang='grc' dir='ltr'>η</span> <span class='ocrx_word' id='word_1_10' title='bbox 511 699 516 703; x_wconf 71' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 541 736 545 741; x_wconf 24' lang='lat'><em>³</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
